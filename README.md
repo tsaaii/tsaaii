@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sai Surapaneni.</h1>
-<h3 align="center">I work as a data engineer mostly on Azure, Airflow and Snowflake.</h3>
+<h3 align="center">I work as a data engineer mostly on Azure, Databricks, Airflow and Snowflake.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tsaaii&label=Profile%20views&color=0e75b6&style=flat" alt="tsaaii" /> </p>
 
